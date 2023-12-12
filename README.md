@@ -1,5 +1,7 @@
 [Write a servlet code to store the bio data details of the user into the database](./Biodata_details.zip)
+
 [Develop a servlet for accepting user registeration details and displaying it on another pg](./JSPRegistrationValidation.zip)
+
 [create an html page with feilds eno name desg and salary now on submit the jsp page will update db](./emp_jsp_db.zip)
 
 
