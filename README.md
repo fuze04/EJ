@@ -1,10 +1,41 @@
 [Write a servlet code to store the bio data details of the user into the database](./Biodata_details.zip)
 
 
-[Develop a servlet for accepting user registeration details and displaying it on another pg](./JSPRegistrationValidation.zip)
-
-
 [create an html page with feilds eno name desg and salary now on submit the jsp page will update db](./emp_jsp_db.zip)
+
+
+[create a jsp application to demostrate the use of Expression language](./ELLanguage.zip)
+
+
+[create a application for download a file](./Practical_3a(Part2).zip)
+
+
+[create a application for upload a file](./Practical_3a.zip)
+
+
+[Develop a web app to provide set of 5 question to the user.........](./QuestionAnswerServlet.zip)
+
+
+[create a jsp to accept eno ename and salary .Insert the records in emp and create table](./emp_jsp.zip)
+
+
+[write a simple jsp application to demonstrate the use of implicit object](./implicitobjectsjsp.zip)
+
+
+[write a jsp code to accept an employee id from user and delete the records of that employee](./DeleteEmployee.zip)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
