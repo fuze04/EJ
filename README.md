@@ -32,6 +32,14 @@
 
 [Develop a EJB that calculates compund intrest and simple intrest for princpal..... ](./InterestCalculator.zip)
 
+
+
+[....](./JSPRegistrationValidation.zip)
+
+[.....](./LOGINREGISTERJSP.zip)
+
+[.....](./RegisterServlet.zip)
+
 <hr>
 #CLASS PRACTICALS
 <br>
