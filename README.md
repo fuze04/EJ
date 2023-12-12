@@ -35,7 +35,8 @@
 <hr>
 #CLASS PRACTICALS
 <br>
-[Simple calculator using servlet ](./Practical1A.rar)
+
+[Simple calculator using servlet](./Practical1A.rar)
 
 
 [create a servlet for login page if login and pasword are same then hello username](./Practical1B.rar)
