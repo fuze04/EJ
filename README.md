@@ -51,7 +51,7 @@
 [Servlet demonstrating the use of session creation and destruction also check user has page n no of tme ](./Practical2c.zip)
 
 
-[Create simple question ans app using db -23questions  ](./Practical_3b.rar)
+[Create simple question ans app using db -3questions  ](./Practical_3b.rar)
 
 
 [simple jsp application to display value obtain use of instrinct](./Practical4a.zip)
