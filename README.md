@@ -19,6 +19,7 @@ select * from usrpass
 
 
 //---for delete employee code
+
 CREATE TABLE IF NOT EXISTS employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
