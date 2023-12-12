@@ -1,3 +1,15 @@
+[Write a servlet code to store the bio data details of the user into the database](./EJ/Biodata_details.zip)
+
+
+
+
+
+
+
+
+
+
+
 Practical 3a and 3a part2 are download and upload file code
 
 
