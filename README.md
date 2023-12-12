@@ -25,6 +25,12 @@
 [write a jsp code to accept an employee id from user and delete the records of that employee](./DeleteEmployee.zip)
 
 
+[Develop a web application to allow the user to enter invebtory details](./InventoryManagament.zip)
+
+
+
+
+
 
 
 
