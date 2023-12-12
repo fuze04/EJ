@@ -32,6 +32,59 @@
 
 [Develop a EJB that calculates compund intrest and simple intrest for princpal..... ](./InterestCalculator.zip)
 
+<hr>
+#CLASS PRACTICALS
+[Simple calculator using servlet ](./Practical1A.rar)
+
+
+[create a servlet for login page if login and pasword are same then hello username](./Practical1B.rar)
+
+
+[registeration servlet using jdbc accept details like uname,pswd,email,cntry......](./Practical1C.rar)
+
+
+[using request dispatcher interface create servelt which validate pswd enter by user ](./Practical2a.rar)
+
+
+[Servlet demonstrating the use of session creation and destruction also check user has page n no of tme ](./Practical2c.zip)
+
+
+[Create simple question ans app using db -23questions  ](./Practical_3b.rar)
+
+
+[simple jsp application to display value obtain use of instrinct](./Practical4a.zip)
+
+
+[Simple jsp application pass value from one page to another with validation,name,age,gender](./Practical4b.rar)
+
+
+[reisteration and login jsp application to authenticate register based on jdbc uname and pswd ](./Practical4c.rar)
+
+
+[jsp application to demonstrate the use of jstl](./Prac5c.rar)
+
+
+[create currency convertor application using ejb](./Practical6a.zip)
+
+
+[simple room reservation system ejb](./Practical6b.zip)
+
+
+[simple shopping cart using ejb](./Prac6CShoppingCartApp.zip)
+
+
+[ejb application to demonstrate servlet hit count using singleton session bean](./Practical7a.zip)
+
+
+[marks entry application to demonstrate accessing db using ejb)](./Practical_7c.zip)
+
+
+
+
+
+
+
+
 ### Practical 3a and 3a part2 are download and upload file code
 
 <hr>
