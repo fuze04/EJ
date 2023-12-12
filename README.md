@@ -37,7 +37,7 @@
 [Develop a web application using JSP to allow the user to login by entering the user id and the password, when the user clicks on “Login” button, call a JSP page
 to authenticate the login, if successful take the user to “welcome.html”, otherwise display “Login Failed”, and allow the user to re-login. ](./JSPRegistrationValidation.zip)
 
-[Create a registration and login JSP application to register and authenticate the user based on username and password ](./LOGINREGISTERJSP.zip)
+[Create a registration and login JSP application to register and authenticate the user based on username and password ](./logic_userid_pass.zip)
 
 [Develop servlet application for accepting user registration details and displaying it on another page (At least 6 Values).](./RegisterServlet.zip)
 
