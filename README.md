@@ -10,3 +10,9 @@ CREATE TABLE inventory (
 )
 
 select * from inventory
+
+
+//for loginregisterjsp
+create table usrpass(fname varchar(30),lname varchar(30),pass varchar(30),email varchar(30))
+
+select * from usrpass
