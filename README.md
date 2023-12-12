@@ -1,3 +1,5 @@
+# Programs
+
 [Write a servlet code to store the bio data details of the user into the database](./Biodata_details.zip)
 
 
@@ -30,65 +32,67 @@
 
 [Develop a EJB that calculates compund intrest and simple intrest for princpal..... ](./InterestCalculator.zip)
 
+### Practical 3a and 3a part2 are download and upload file code
+
+<hr>
+
+# PDFs 
+
+[EJ Lab Manual](./Pdfs/EJ%20Lab%20Manual.pdf)
+
+[EJ Manual Enext](./Pdfs/EJ%20Manual%20(E-next.in).pdf)
+
+
+<hr>
+<br>
+<br>
 
 
 
 
+# Database Structures
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Practical 3a and 3a part2 are download and upload file code
-
-
-//for inventory code database
+## Inventory Code Database
+```mysql
 CREATE TABLE inventory (
     id int AUTO_INCREMENT PRIMARY KEY,
     productName VARCHAR(255),
     productPrice DECIMAL(10, 2),
     quantity int
 )
+```
 
+```mysql
 select * from inventory
+```
 
-
-//for loginregisterjsp
+## For loginregisterjsp
+```mysql
 create table usrpass(fname varchar(30),lname varchar(30),pass varchar(30),email varchar(30))
-
+```
+```mysql
 select * from usrpass
+```
 
+## For Delete Employee Code
 
-//---for delete employee code
-
+```mysql
 CREATE TABLE IF NOT EXISTS employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     job VARCHAR(100) NOT NULL
 );
+```
 
-select * from employees;
+```mysql
 INSERT INTO employees(id, name, job) VALUES 
 ('1', 'Bob', 'Engineer'), 
 ('2', 'Rob', 'Manager'), 
 ('3', 'Hugh', 'Developer'),
 ('4', 'Peter', 'Assistant'), 
 ('5', 'Tom', 'Clerk');
+```
+
+```mysql
+select * from employees;
+```
