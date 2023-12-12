@@ -28,6 +28,8 @@
 [Develop a web application to allow the user to enter invebtory details](./InventoryManagament.zip)
 
 
+[Develop a EJB that calculates compund intrest and simple intrest for princpal..... ](./InterestCalculator.zip)
+
 
 
 
