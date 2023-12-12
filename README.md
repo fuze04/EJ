@@ -91,8 +91,9 @@ to authenticate the login, if successful take the user to “welcome.html”, ot
 
 <br>
 <br>
-#logic_userid_pass file
-#Note that: This question doesnt ask you to make a registration page but now its too tedious to remove that page, you can manually store the values in the database and then login with those values but that would maybe tamper the output. So i guess let it be like this #only
+#NOTE:-logic_userid_pass file
+<br>
+#Note that: This question doesnt ask you to make a registration page but now its too tedious to remove that page, you can manually store the values in the database and then login with those values but that would maybe tamper the output. So i guess let it be like this only
 <br>
 #[Login(userid: varchar, password:varchar)] and when u log in you log in with user id (number) not name
 
