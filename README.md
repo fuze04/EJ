@@ -1,4 +1,4 @@
-[Write a servlet code to store the bio data details of the user into the database](.Biodata_details.zip)
+[Write a servlet code to store the bio data details of the user into the database](Biodata_details.zip)
 
 
 
